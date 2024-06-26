@@ -104,7 +104,7 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Haadesx&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Varesh-Patel&theme=onedark)
 
 ## 📫 How to reach me
 
