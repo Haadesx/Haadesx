@@ -28,7 +28,7 @@ I am a passionate developer with a keen interest in AI, machine learning, and so
 ## 📫 How to reach me
 
 - **Email**: [contactvaresh@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/vareshpatel)
+- **LinkedIn**: [Varesh Patel](www.linkedin.com/in/vareshpatel)
 - **Twitter**: [@varesh_patel](https://x.com/varesh_patel)
 
 Feel free to connect with me or check out my projects!
