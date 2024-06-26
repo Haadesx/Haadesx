@@ -6,7 +6,6 @@
 
 I am a highly motivated and results-oriented student with a deep passion for data analysis, emerging technologies, and cybersecurity. Currently pursuing a Bachelor's degree in Computer Science and Design at G H Patel College of Engineering & Technology, I have developed a robust skill set in various technical and managerial domains. My certification as a Google Project Manager and my roles in IEEE have honed my project management and leadership abilities, while my technical skills have been enhanced through various coursework and internships. I am eager to leverage my skills and experiences to contribute to innovative projects and drive success in any professional environment.
 
-
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
@@ -100,8 +99,6 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 ### WakaTime Stats
 
 ![Varesh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&layout=compact&theme=radical)
-
-
 
 ## 🏆 GitHub Trophies
 
