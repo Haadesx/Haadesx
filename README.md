@@ -96,9 +96,6 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 ![Haadesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haadesx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&layout=compact&theme=radical)
 
-### WakaTime Stats
-
-![Varesh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
