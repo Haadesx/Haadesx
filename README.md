@@ -99,7 +99,7 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ### WakaTime Stats
 
-![Varesh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&layout=compact&theme=radical)
+![Varesh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Varesh-Patel&layout=compact&theme=radical)
 
 
 ## 🏆 GitHub Trophies
