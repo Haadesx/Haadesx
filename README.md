@@ -101,6 +101,9 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Haadesx&theme=onedark)
 
+![Snake animation](https://raw.githubusercontent.com/Haadesx/Haadesx/main/snake.svg)
+
+
 ## 📫 How to reach me
 
 - **Email**: [contactvaresh@gmail.com](mailto:contactvaresh@gmail.com)
