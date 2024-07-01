@@ -97,6 +97,7 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&layout=compact&theme=radical)
 
 
+
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Haadesx&theme=onedark)
