@@ -102,9 +102,6 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 ![trophy](https://github-profile-trophy.vercel.app/?username=Haadesx&theme=onedark)
 
 
-## Snake Animation
-![Snake animation](https://github.com/Haadesx/Haadesx/raw/output/dist/snake.svg)
-
 
 ## 📫 How to reach me
 
