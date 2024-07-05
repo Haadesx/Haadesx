@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # Execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
   push:
@@ -17,16 +17,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v3
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.Haadesx }}
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.1  # Updated to v3.1.1
+        uses: crazy-max/ghaction-github-pages@v3.1.1
         with:
           target_branch: output
           build_dir: dist
