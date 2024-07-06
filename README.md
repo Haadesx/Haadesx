@@ -56,8 +56,9 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg" alt="snake"/>
 </p>
+
 
 ## 📫 How to reach me
 
