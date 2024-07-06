@@ -44,6 +44,10 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ## 📊 GitHub Stats
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haadesx&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Haadesx&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -55,11 +59,10 @@ I am a highly motivated and results-oriented student with a deep passion for dat
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
-
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg" alt="snake"/>
+  <img width="1000" src="https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg" alt="snake"/>
 </p>
+
 
 
 ## 📫 How to reach me
