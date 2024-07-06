@@ -44,17 +44,15 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haadesx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haadesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Haadesx&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
-</div>
-
----
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Haadesx&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Haadesx&style=for-the-badge&color=orange" alt=""/>
 </div>
+
 
 <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg" alt="snake"/>
