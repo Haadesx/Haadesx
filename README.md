@@ -97,7 +97,7 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&layout=compact&theme=radical)
 
 ## Snake
-![Snake Animation](https://Haadesx.github.io/Haadesx/dist/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg)
 
 
 ## 🏆 GitHub Trophies
