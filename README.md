@@ -95,6 +95,9 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 ![Haadesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haadesx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Haadesx&theme=radical)
+![Metrics](https://metrics.lecoq.io/Haadesx?template=classic&isocalendar=1&languages=1&followup=1&people=1&stars=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0.5&languages.other=0.5&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&stars.limit=4&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&followup.sections=repositories&followup.indepth=false&followup.archived=true)
+
 
 ## Snake Animation
 ![Snake Animation](https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg)
