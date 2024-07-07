@@ -70,6 +70,6 @@ I am a highly motivated and results-oriented student with a deep passion for dat
 
 - **Email**: [contactvaresh@gmail.com](mailto:contactvaresh@gmail.com)
 - **LinkedIn**: [Varesh Patel](https://www.linkedin.com/in/vareshpatel)
-- **Twitter**: [@varesh_patel](https://x.com/varesh_patel)
+- **X**: [@varesh_patel](https://x.com/varesh_patel)
 
 Feel free to connect with me or check out my projects!
