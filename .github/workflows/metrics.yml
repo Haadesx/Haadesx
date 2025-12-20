@@ -30,14 +30,11 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKA_SECRET }}
           
-          # Plugin: Activity (The "Wave" - expanded)
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 180
+          plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: all
-          plugin_activity_charts: yes
-          plugin_activity_charts_type: spline
           
           # Plugin: Lines (Backup "Wave" - Repos history)
           plugin_lines: yes

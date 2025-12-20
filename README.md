@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Haadesx/Haadesx/main/metrics.plugin.wakatime.svg" alt="WakaTime & Activity Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&theme=radical&layout=compact" height="180" alt="WakaTime Stats" />
 </div>
 
 <!-- 3D Contribution Graph Placeholder - Automated by GitHub Action -->
