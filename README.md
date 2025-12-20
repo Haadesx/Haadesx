@@ -88,12 +88,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" height="180" alt="languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&theme=radical&layout=compact" height="180" alt="WakaTime Stats" />
+</div>
+
 <!-- 3D Contribution Graph Placeholder - Automated by GitHub Action -->
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph (Run Workflow to Generate)" width="100%" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d900ff,100:00ccff&height=100&section=footer&animation=fadeIn" alt="Footer" width="100%" />
+</div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
