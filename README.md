@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d900ff,100:00ccff&height=300&section=header&text=Haadesx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Rutgers%20CS%20Masters&descAlignY=51&descAlign=62" alt="Haadesx Header" width="100%" />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Haadesx&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Haadesx&theme=radical&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" />
   </a>
-  
   <br/>
-  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Haadesx&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
@@ -16,10 +14,11 @@
 
 ### 👨‍💻 About Me
 
-<div align="left">
-  <img align="right" width="350" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="coding snake" />
-  
-  > *"Data is the new oil, but AI is the engine."*
+<div align="center">
+  <blockquote>
+    "Data is the new oil, but AI is the engine."
+  </blockquote>
+  <br>
   
   I am a **Masters in Computer Science** student at **Rutgers University (2025-2027)** and a passionate AI Engineer. My journey involves building large-scale deep learning pipelines, optimizing extensive datasets, and creating intuitive user experiences.
   
@@ -28,8 +27,6 @@
   - 💼 Previously: **AI Intern** at *Foundation for Ecological Security* & *Arcascope*.
   - ⚡ Fun fact: I once managed a **710GB** image dataset of 1,150 bird species!
 </div>
-
-<br clear="both">
 
 ---
 
