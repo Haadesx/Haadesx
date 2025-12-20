@@ -1,13 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d900ff,100:00ccff&height=300&section=header&text=Haadesx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Rutgers%20CS%20Masters&descAlignY=51&descAlign=62" alt="Haadesx Header" width="100%" />
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Haadesx&theme=radical&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Haadesx&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
 </div>
 
 ---
@@ -19,7 +11,7 @@
     "Data is the new oil, but AI is the engine."
   </blockquote>
   <br>
-  
+
   I am a **Masters in Computer Science** student at **Rutgers University (2025-2027)** and a passionate AI Engineer. My journey involves building large-scale deep learning pipelines, optimizing extensive datasets, and creating intuitive user experiences.
   
   - 🔭 I’m currently working on **Generative AI for Biodiversity** and **Bio-Informatics**.
@@ -27,6 +19,7 @@
   - 💼 Previously: **AI Intern** at *Foundation for Ecological Security* & *Arcascope*.
   - ⚡ Fun fact: I once managed a **710GB** image dataset of 1,150 bird species!
 </div>
+
 
 ---
 
@@ -95,9 +88,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" height="180" alt="languages" />
 </div>
 
-<!-- 3D Contribution Graph Placeholder -->
+<!-- 3D Contribution Graph Placeholder - Automated by GitHub Action -->
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph (Run Workflow to Generate)" width="100%" />
 </div>
 
 ---
