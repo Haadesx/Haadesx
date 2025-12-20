@@ -1,75 +1,119 @@
-# Hi there, I'm Varesh Patel 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d900ff,100:00ccff&height=300&section=header&text=Haadesx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Rutgers%20CS%20Masters&descAlignY=51&descAlign=62" alt="Haadesx Header" width="100%" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Haadesx&color=blueviolet)
-
-## 🚀 About Me
-
-I am a highly motivated and results-oriented student with a deep passion for data analysis, emerging technologies, and cybersecurity. Currently pursuing a Bachelor's degree in Computer Science and Design at G H Patel College of Engineering & Technology, I have developed a robust skill set in various technical and managerial domains. My certification as a Google Project Manager and my roles in IEEE have honed my project management and leadership abilities, while my technical skills have been enhanced through various coursework and internships. I am eager to leverage my skills and experiences to contribute to innovative projects and drive success in any professional environment.
-
-## Languages and Tools
-
-<div>
-
-### Languages:
-| Python | JavaScript | C++ | Java | C |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> |
-
-### Web Development:
-| HTML5 | CSS3 | React | Node.js | Flask |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> |
-
-### Database Management:
-| MySQL | MongoDB | SQLite |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
-
-### Machine Learning & AI:
-| TensorFlow | PyTorch | NumPy | Pandas | Matplotlib |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
-
-### Tools & Platforms:
-| Git | Docker | Kubernetes | Azure |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Haadesx&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Haadesx&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
 </div>
-
-
-
 
 ---
 
-## 📊 GitHub Stats
+### 👨‍💻 About Me
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haadesx&style=for-the-badge&color=orange" alt=""/>
+<div align="left">
+  <img align="right" width="350" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="coding snake" />
+  
+  > *"Data is the new oil, but AI is the engine."*
+  
+  I am a **Masters in Computer Science** student at **Rutgers University (2025-2027)** and a passionate AI Engineer. My journey involves building large-scale deep learning pipelines, optimizing extensive datasets, and creating intuitive user experiences.
+  
+  - 🔭 I’m currently working on **Generative AI for Biodiversity** and **Bio-Informatics**.
+  - 🌱 I’m currently learning **Advanced Computer Vision** and **System Design**.
+  - 💼 Previously: **AI Intern** at *Foundation for Ecological Security* & *Arcascope*.
+  - ⚡ Fun fact: I once managed a **710GB** image dataset of 1,150 bird species!
 </div>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Haadesx&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+<br clear="both">
 
 ---
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Haadesx&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/Haadesx/Haadesx/a5b175d5647d0d5828091668314e26c78eda4c58/snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikit,java,cpp,c,js,react,nodejs,flask,html,css,mysql,mongodb,sqlite,git,docker,kubernetes,azure,huggingface,wandb&perline=12&theme=dark" />
+  </a>
+</div>
 
+---
 
+### 💼 Work Experience
 
+#### **Foundation for Ecological Security** | *Artificial Intelligence Intern*
+*Jan 2025 - May 2025*
+- 🦅 **AI Bird Classification**: Built a system for IBIS 2.0 handling a **710GB** dataset (1,150 species).
+- 📈 **Performance**: Achieved **79% accuracy** using a two-stage deep learning pipeline.
+- 🚀 **Deployment**: Deployed via Gradio for researchers.
 
-## 📫 How to reach me
+#### **Arcascope** | *Artificial Intelligence Intern*
+*Oct 2024 - Jan 2025*
+- 💤 **Fatigue Prediction**: Developed a 20-version ML pipeline for fatigue prediction.
+- 🏆 **Impact**: Reduced Mean Absolute Error (MAE) by **78%** (1.17 → 0.25) using a custom PyTorch model with CORAL layers.
 
-- **Email**: [contactvaresh@gmail.com](mailto:contactvaresh@gmail.com)
-- **LinkedIn**: [Varesh Patel](https://www.linkedin.com/in/vareshpatel)
-- **X**: [@varesh_patel](https://x.com/varesh_patel)
+---
 
-Feel free to connect with me or check out my projects!
+### 🚀 Key Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎵 Emotion-Driven Spotify Clone</h3>
+      <ul>
+        <li><strong>Tech</strong>: CNN, Python, Spotify API</li>
+        <li><strong>Highlight</strong>: Facial emotion recognition with <strong>95.83% accuracy</strong> to recommend mood-based music.</li>
+        <li><strong>Impact</strong>: Boosted simulated user engagement by 25%.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">📄 PDFhelper - Intelligent Doc Retrieval</h3>
+      <ul>
+        <li><strong>Tech</strong>: LLaMA 3.2, Qdrant, Hugging Face</li>
+        <li><strong>Highlight</strong>: Semantic document retrieval system.</li>
+        <li><strong>Impact</strong>: Improved retrieval efficiency by <strong>70%</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Publications
+
+- **Patel, V.**, Shah, K., & Joshi, K. (2025). _"Openpose, posenet and movenet: The evolution of deep learning methods in yoga pose and classification."_ (**ICDAM-2025**, London).
+- **Patel, V.** (2024). _"Machine learning-based hand gesture recognition for immersive gaming."_
+- **Patel, V.**, & Mehta, K. (2024). _"Emotion-aware music recommendations: Evaluating custom CNN vs. VGG16 and inception V3."_ (**IEEE FMLDS**).
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haadesx&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadesx&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
+
+<!-- 3D Contribution Graph Placeholder -->
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <a href="mailto:workmailvaresh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vareshpatel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/varesh_patel">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</div>
