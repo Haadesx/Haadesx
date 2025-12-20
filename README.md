@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&theme=radical&layout=compact" height="180" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haadesx&theme=radical&layout=compact" alt="WakaTime Stats" />
 </div>
 
 <!-- 3D Contribution Graph Placeholder - Automated by GitHub Action -->
