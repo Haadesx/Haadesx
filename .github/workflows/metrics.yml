@@ -30,7 +30,6 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKA_SECRET }}
           
-          # Plugin: Activity (The "Wave")
           # Plugin: Activity (The "Wave" - expanded)
           plugin_activity: yes
           plugin_activity_limit: 5
