@@ -23,22 +23,9 @@ Most of my work sits somewhere between applied ML and systems engineering: edge 
 
 ## Build Log
 
-```text
-varesh@github:~$ whoami
-MS CS student @ Rutgers
-
-varesh@github:~$ focus --now
-edge ai | ml tooling | validation-heavy systems
-
-varesh@github:~$ latest_debug_win
-fixed an inference-thread stack overflow on an ARM Cortex-M demo running in QEMU
-
-varesh@github:~$ what_i_optimize_for
-instrument first
-make failures visible
-keep experiments reproducible
-ship things other people can actually use
-```
+<div align="center">
+  <img src="terminal-build-log.gif" alt="Animated build log terminal" width="100%" />
+</div>
 
 ---
 
