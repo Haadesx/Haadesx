@@ -103,7 +103,7 @@ An OCR-first verifier for caregiver medication safety: it checks whether a bottl
 
 **AI & Software Development Intern** — Impruvon Health · Summer 2026
 
-Typed FastMCP tooling — nine tools over operational and transformed HL7 queries · authenticated REST integrations and normalized vendor responses · multi-location analytics · Playwright-recorded workflow demos.
+Typed FastMCP tooling — nine tools over operational and transformed HL7 queries · authenticated REST integrations and normalized vendor responses for LLM-driven analysis · multi-location analytics · Playwright-recorded workflow demos.
 
 **AI Intern** — Foundation for Ecological Security · 2025
 
