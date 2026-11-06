@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="380" viewBox="0 0 880 380" role="img" aria-labelledby="t d">
+<title id="t">ICONOCLAST — representation edit and evaluation</title>
+<desc id="d">Four-stage framework: contrastive residual activations, direction estimation, a benign-subspace-preserving LoRA edit, and holdout evaluation. Evidence figures: 10 matched open-weight comparisons, 6 released edit artifacts, and reported KL-divergence tradeoffs.</desc>
+<defs>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#191817" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#151212"/>
+    <stop offset="0.55" stop-color="#101010"/>
+    <stop offset="1" stop-color="#121010"/>
+  </linearGradient>
+</defs>
+<rect width="880" height="380" fill="url(#plate)"/>
+<rect x="0.5" y="0.5" width="879" height="379" fill="none" stroke="#393332"/>
+<rect x="0" y="0" width="260" height="1.5" fill="#f15b4e"/>
+<path d="M12 12 h12 M12 12 v12" fill="none" stroke="#3a3634" stroke-width="1"/><path d="M868 12 h-12 M868 12 v12" fill="none" stroke="#3a3634" stroke-width="1"/><path d="M12 368 h12 M12 368 v-12" fill="none" stroke="#3a3634" stroke-width="1"/><path d="M868 368 h-12 M868 368 v-12" fill="none" stroke="#3a3634" stroke-width="1"/>
+<text x="28" y="42" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" letter-spacing="2.2">BENIGN-SUBSPACE PRESERVING EDIT</text>
+<text x="852" y="42" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="1.8" text-anchor="end">PROJECT / 03</text>
+<line x1="28" y1="60" x2="852" y2="60" stroke="#2b2827" stroke-width="1"/>
+<rect x="28" y="92" width="178" height="156" fill="#151414" stroke="#393332" stroke-width="1"/>
+<line x1="28" y1="92" x2="98" y2="92" stroke="#f15b4e" stroke-width="2"/>
+<text x="44" y="118" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" letter-spacing="1.6">01 / RESIDUAL</text>
+<text x="44" y="134" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7" font-weight="400" letter-spacing="1.1">CONTRASTIVE ACTIVATIONS</text>
+<rect x="44" y="152" width="86" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<rect x="44" y="162.5" width="54" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<rect x="44" y="173" width="118" height="7" fill="#481f1d" stroke="#7d3732" stroke-width="1"/>
+<rect x="44" y="183.5" width="38" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<rect x="44" y="194" width="96" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<rect x="44" y="204.5" width="66" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<rect x="44" y="215" width="128" height="7" fill="#481f1d" stroke="#7d3732" stroke-width="1"/>
+<rect x="44" y="225.5" width="44" height="7" fill="#242020" stroke="#3a3532" stroke-width="1"/>
+<path d="M210 170 h21 M231 166 l7 4 l-7 4" fill="none" stroke="#f15b4e" stroke-width="1.4"/>
+<rect x="243" y="92" width="178" height="156" fill="#151414" stroke="#393332" stroke-width="1"/>
+<line x1="243" y1="92" x2="313" y2="92" stroke="#f15b4e" stroke-width="2"/>
+<text x="259" y="118" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" letter-spacing="1.6">02 / DIRECTION</text>
+<text x="259" y="134" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7" font-weight="400" letter-spacing="1.1">MEAN / MEDIAN / HYBRID</text>
+<rect x="263" y="216" width="13" height="24" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<rect x="286" y="196" width="13" height="44" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<rect x="309" y="152" width="13" height="88" fill="#f15b4e" stroke="#f15b4e" stroke-width="1"/>
+<rect x="332" y="210" width="13" height="30" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<rect x="355" y="178" width="13" height="62" fill="#f15b4e" stroke="#f15b4e" stroke-width="1"/>
+<rect x="378" y="222" width="13" height="18" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<line x1="259" y1="240" x2="405" y2="240" stroke="#2b2827" stroke-width="1"/>
+<path d="M425 170 h21 M446 166 l7 4 l-7 4" fill="none" stroke="#f15b4e" stroke-width="1.4"/>
+<rect x="458" y="92" width="178" height="156" fill="#151414" stroke="#393332" stroke-width="1"/>
+<line x1="458" y1="92" x2="528" y2="92" stroke="#f15b4e" stroke-width="2"/>
+<text x="474" y="118" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" letter-spacing="1.6">03 / EDIT</text>
+<text x="474" y="134" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7" font-weight="400" letter-spacing="1.1">BENIGN-SUBSPACE LoRA</text>
+<text x="474" y="166" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.5" font-weight="400" letter-spacing="1">RANK-1</text>
+<rect x="474" y="172" width="128" height="9" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<rect x="474" y="172" width="96" height="9" fill="#481f1d" stroke="#7d3732" stroke-width="1"/>
+<text x="474" y="206" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.5" font-weight="400" letter-spacing="1">LOW-RANK</text>
+<rect x="474" y="212" width="128" height="9" fill="#2b2725" stroke="#3f3936" stroke-width="1"/>
+<rect x="474" y="212" width="64" height="9" fill="#481f1d" stroke="#7d3732" stroke-width="1"/>
+<path d="M640 170 h21 M661 166 l7 4 l-7 4" fill="none" stroke="#f15b4e" stroke-width="1.4"/>
+<rect x="673" y="92" width="178" height="156" fill="#151414" stroke="#393332" stroke-width="1"/>
+<line x1="673" y1="92" x2="743" y2="92" stroke="#f15b4e" stroke-width="2"/>
+<text x="689" y="118" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" letter-spacing="1.6">04 / EVALUATION</text>
+<text x="689" y="134" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7" font-weight="400" letter-spacing="1.1">HOLDOUT KL + REFUSALS</text>
+<text x="689" y="172" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="0.6">1</text>
+<text x="703" y="172" fill="#c6c1bb" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.5" font-weight="400" letter-spacing="0.7">FEWER REFUSALS</text>
+<line x1="703" y1="181" x2="823" y2="181" stroke="#2b2827" stroke-width="1"/>
+<text x="689" y="198" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="0.6">2</text>
+<text x="703" y="198" fill="#c6c1bb" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.5" font-weight="400" letter-spacing="0.7">FEWER OVERREFUSALS</text>
+<line x1="703" y1="207" x2="823" y2="207" stroke="#2b2827" stroke-width="1"/>
+<text x="689" y="224" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="0.6">3</text>
+<text x="703" y="224" fill="#f5f2ee" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="7.5" font-weight="400" letter-spacing="0.7">LOWER KL</text>
+<text x="689" y="240" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="6.5" font-weight="400" letter-spacing="0.6">SELECTION ORDER / 10 PAIRS</text>
+<line x1="28" y1="276" x2="852" y2="276" stroke="#2b2827" stroke-width="1"/>
+<text x="28" y="314" fill="#f15b4e" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.8">10</text>
+<text x="68" y="312" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8" font-weight="400" letter-spacing="1.1">MATCHED OPEN-WEIGHT COMPARISONS</text>
+<text x="320" y="314" fill="#f15b4e" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.8">6</text>
+<text x="348" y="312" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8" font-weight="400" letter-spacing="1.1">RELEASED EDIT ARTIFACTS</text>
+<text x="580" y="314" fill="#f15b4e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.8">OPTUNA</text>
+<text x="692" y="312" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8" font-weight="400" letter-spacing="1.1">PARAMETER SEARCH</text>
+<line x1="28" y1="328" x2="852" y2="328" stroke="#2b2827" stroke-width="1"/>
+<line x1="28" y1="330" x2="852" y2="330" stroke="#2b2827" stroke-width="1"/>
+<text x="28" y="356" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="1.1">CONTRASTIVE RESIDUALS · BENIGN-SUBSPACE PCA · LoRA EDITS · KL + REFUSAL EVALUATION · TRADEOFFS VISIBLE</text>
+</svg>
