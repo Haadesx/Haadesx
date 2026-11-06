@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">Varesh Patel — Machine Learning and Computer Vision Engineer</title>
+<desc id="d">Dark editorial identity plate. Wordmark VARESH outlined in coral, PATEL in warm off-white, with the role Machine Learning and Computer Vision Engineer, thin grid geometry and registration marks.</desc>
+<defs>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#191817" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#151212"/>
+    <stop offset="0.55" stop-color="#101010"/>
+    <stop offset="1" stop-color="#121010"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="400" fill="#101010"/>
+<rect width="1200" height="400" fill="url(#grid)" opacity="0.55"/>
+<rect x="40" y="0.5" width="1120" height="399" fill="none" stroke="#2b2827"/>
+<path d="M16 16 h18 M16 16 v18" fill="none" stroke="#423e3b" stroke-width="1"/><path d="M1184 16 h-18 M1184 16 v18" fill="none" stroke="#423e3b" stroke-width="1"/><path d="M16 384 h18 M16 384 v-18" fill="none" stroke="#423e3b" stroke-width="1"/><path d="M1184 384 h-18 M1184 384 v-18" fill="none" stroke="#423e3b" stroke-width="1"/>
+<text x="64" y="38" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" letter-spacing="2.2">VARESH PATEL / PORTFOLIO 2026</text>
+<text x="1136" y="38" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" letter-spacing="2.2" text-anchor="end">MACHINE LEARNING &amp; COMPUTER VISION</text>
+<line x1="64" y1="58" x2="1136" y2="58" stroke="#393332" stroke-width="1"/>
+<line x1="64" y1="58" x2="300" y2="58" stroke="#f15b4e" stroke-width="1"/>
+<rect x="40" y="96" width="3" height="150" fill="#f15b4e"/>
+<text x="64" y="238" font-family="Impact, 'Arial Narrow', Arial, Helvetica, sans-serif" font-size="158" font-weight="400" letter-spacing="-4" stroke="#f15b4e" stroke-width="2.2" fill="none" textLength="560" lengthAdjust="spacingAndGlyphs">VARESH</text>
+<text x="642" y="238" fill="#f5f2ee" font-family="Impact, 'Arial Narrow', Arial, Helvetica, sans-serif" font-size="158" font-weight="400" letter-spacing="-4" textLength="420" lengthAdjust="spacingAndGlyphs">PATEL</text>
+<circle cx="1080" cy="232" r="6" fill="#f15b4e"/>
+<g opacity="0.5"><line x1="1104" y1="110" x2="1124" y2="110" stroke="#62dce8" stroke-width="1"/><line x1="1114" y1="100" x2="1114" y2="120" stroke="#62dce8" stroke-width="1"/><circle cx="1114" cy="110" r="2" fill="#62dce8"/></g>
+<text x="64" y="282" fill="#dedbd6" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" letter-spacing="2.8">MACHINE LEARNING &amp; COMPUTER VISION ENGINEER</text>
+<line x1="64" y1="302" x2="1136" y2="302" stroke="#393332" stroke-width="1"/>
+<text x="64" y="334" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">01</text>
+<text x="86" y="334" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">VISION SYSTEMS</text>
+<text x="254" y="334" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">02</text>
+<text x="276" y="334" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">PREDICTIVE MODELS</text>
+<text x="444" y="334" fill="#f15b4e" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">03</text>
+<text x="466" y="334" fill="#8f8a84" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.6">LANGUAGE MODELS</text>
+<text x="1136" y="334" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" letter-spacing="1.8" text-anchor="end">IDENTITY / 001</text>
+<rect x="1136" y="344" width="28" height="1.5" fill="#f15b4e"/>
+<line x1="64" y1="356" x2="1136" y2="356" stroke="#2b2827" stroke-width="1"/>
+<text x="64" y="380" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="2">RESEARCH / BUILD / EVALUATION</text>
+<text x="1136" y="380" fill="#6f6a65" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" letter-spacing="2" text-anchor="end">NEW BRUNSWICK, NJ / 2026</text>
+</svg>
